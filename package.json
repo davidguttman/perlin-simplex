@@ -1,6 +1,6 @@
 {
   "name": "perlin-simplex",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simplex Perlin noise",
   "main": "index.js",
   "scripts": {
